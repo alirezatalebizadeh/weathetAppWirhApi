@@ -104,6 +104,6 @@ main {
   /* text-shadow: 0px 4px rgba(0, 0, 0, 0.4); */
 }
 
-::placeholder{
+::placeholder {
   color: var(--color-text);
 }
